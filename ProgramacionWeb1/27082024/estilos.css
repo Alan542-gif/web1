@@ -1,0 +1,23 @@
+h1 {
+    color: aquamarine;
+}
+
+p {
+    color: blueviolet;
+    border: 1px solid black;
+    font-size: 40px;
+}
+
+.parrafoVerde {
+    font-size: 20px;
+    color: green;
+}
+
+.parrafoAmarillo {
+    margin-top: 120px;
+    font-size: 20px;
+    background-color: greenyellow;
+    border: 6px solid wheat;
+    padding-bottom: 10px;
+    
+}

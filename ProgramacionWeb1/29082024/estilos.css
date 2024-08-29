@@ -1,0 +1,12 @@
+.imagen1 {
+    width: 600px;
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+}
+
+body {
+    background-color: white;
+    color: black;
+
+}

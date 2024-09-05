@@ -1,0 +1,49 @@
+body {
+    text-align: center
+}
+
+table {}
+
+.Fila1 {
+    background-color: #a3ceef;
+    font-size: 25px;
+
+
+}
+
+.FilaColor {
+    background-color: #bfff80;
+    font-size: 20px;
+}
+
+.lab {
+    background-color: #ffd200;
+    font-size: 20px;
+}
+
+.libre {
+    background-color: #cfcfcf;
+}
+
+.alinear-izquierda {
+    text-align: left;
+}
+
+.clase-verde {
+    color: #bfff80;
+    font-size: 25px;
+}
+
+.clase-gris {
+    color: #cfcfcf;
+    font-size: 25px;
+}
+
+.clase-lab {
+    color: #ffd200;
+    font-size: 25px;
+}
+
+.titulo {
+    font-size: 45px;
+}

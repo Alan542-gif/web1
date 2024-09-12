@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 2rem;
+    padding: 2em;
+}
+
+.fondoGris {
+    background-color: grey;
+}
+
+.fondoRojo {
+    color: red;
+
+}
+
+.fondoNuevo {
+    background-color: white;
+}
+
+
+.imagen {
+    text-align: center;
+
+}
+
+.imagencuadro {
+    width: 150px;
+
+}
+
+.texto {
+    text-align: center;
+    font-size: 50px;
+}
+
+.texto1 {
+    font-size: 1em;
+    color: white;
+    text-align: justify;
+    text-align: center;
+    font-size: 30px;
+}
+
+.separacion {
+    padding: 1em;
+}
+
+.borde {
+    border: white;
+    border-radius: 10px;
+}
+.parrafo2{
+    text-align: center;
+    background-color: whitesmoke;
+    font-size: 20px;
+}

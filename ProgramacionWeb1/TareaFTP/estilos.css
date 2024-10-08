@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+}
+.fondo1{
+    background: rgb(116,108,208);
+background: radial-gradient(circle, rgba(116,108,208,1) 21%, rgba(148,187,233,1) 85%);
+}
+.fondo2{
+    background: rgb(34,195,120);
+background: linear-gradient(0deg, rgba(34,195,120,1) 0%, rgba(253,187,45,1) 100%);
+}
+.h1{
+    font-family: sans-serif;
+    font-size: 35px;
+}
+.parrafo{
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+}
+.h1p2{
+    font-family: sans-serif;
+    font-size: 35px;
+}
